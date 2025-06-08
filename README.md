@@ -1,6 +1,7 @@
 
-![[Pasted image 20250330153429.png]]
-
+<p align="center">
+  <img src="Pasted image 20250330153429.png" alt="My Project Screenshot" style="width:50%; max-width:100%;">
+</p>
 
 ## **🔹 أوامر Git الأساسية**
 
